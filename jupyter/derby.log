@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Mar 07 11:58:37 PST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0153-52a8-f263-00002f09a5a0 
+on database directory /Users/fernandogelin/Dropbox/brainspan-app/jupyter/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@2c0688dc 
+Loaded from file:/Users/fernandogelin/Documents/spark-1.6.0-bin-hadoop2.4/lib/spark-assembly-1.6.0-hadoop2.4.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_05-b13
+user.dir=/Users/fernandogelin/Dropbox/brainspan-app/jupyter
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.10.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
